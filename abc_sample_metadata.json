@@ -1,0 +1,12 @@
+{
+    "name": "ABC",
+    "symbol": "ABC",
+    "description": "ABC Solana Tokens",
+    "image": "https://media.aptosfoundation.org/1724708531-ci_symbol_1024.png",
+    "attributes": [
+        {
+            "trait_type": "Item",
+            "value": "ABC Devnet Test Token"
+        }
+    ]
+}
