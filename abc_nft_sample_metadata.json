@@ -7,6 +7,14 @@
         {
             "trait_type": "Item",
             "value": "ABC NFT BK"
-        }
-    ]
+        },
+        { "trait_type": "Background", "value": "Blue" },
+        { "trait_type": "Rarity", "value": "Rare" }
+    ],
+    "properties": {
+      "files": [
+        { "uri": "https://raw.githubusercontent.com/jay-ahnlabio/dev-assets/refs/heads/main/ABCBrandAssets/ABC-Icon/PNG/ABC_Icon_bk.png", "type": "image/png" }
+      ],
+      "category": "image"
+    }
 }
