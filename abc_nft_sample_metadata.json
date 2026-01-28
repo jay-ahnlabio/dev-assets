@@ -2,7 +2,7 @@
     "name": "ABC",
     "symbol": "ABC",
     "description": "ABC NFT",
-    "image": "ABCBrandAssets/ABC-Icon/PNG/ABC_Icon_bk.png",
+    "image": "https://raw.githubusercontent.com/jay-ahnlabio/dev-assets/refs/heads/main/ABCBrandAssets/ABC-Icon/PNG/ABC_Icon_bk.png",
     "attributes": [
         {
             "trait_type": "Item",
